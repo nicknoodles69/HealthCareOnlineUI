@@ -1,0 +1,20 @@
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.LoginForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.GenerateResource.cache
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.MainForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.RegisterForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.PatientInfoForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.AccMForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.BookAppForm.resources
+C:\Users\Nicholas\source\repos\HealthCare UI\HealthCare UI\x64\Debug\HealthCareUI.HealthCForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.AccMForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.BookAppForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.HealthCForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.LoginForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.MainForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.PatientInfoForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCareUI.RegisterForm.resources
+C:\Users\Nicholas\source\repos\HealthCareUI\HealthCare UI\x64\Debug\HealthCare UI.vcxproj.GenerateResource.cache
