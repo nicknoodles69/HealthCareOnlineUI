@@ -6,5 +6,4 @@
 your computer file paths.
 
 Project Demo video link :
-
 https://drive.google.com/file/d/14sXhJIFOImmRNxWTpcCCAYkii1VaV5_d/view?usp=sharing
